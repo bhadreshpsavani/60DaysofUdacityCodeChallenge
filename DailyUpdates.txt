@@ -1,0 +1,29 @@
+27th June 2019: Day1
+28th June 2019: Day2
+29th June 2019: Day3
+30th June 2019: Day4
+1th July 2019: Day5
+2th July 2019: Day6
+3th July 2019: Day7
+4th July 2019: Day8
+
+5th July 2019: Day9
+-participated in *Boom with the Basics* in the beginner channel
+-working on building slack bot
+
+6th July 2019: Day10
+- revised videos of lesson 8
+- continued working on final project of lesson 8
+- continued working on slack bot
+
+7th July 2019: Day11
+1) Read articles about federated learning
+2) Revised concepts of federated learning
+3) Working on differential privacy final project with different approach by increasesing number of teachers in it.
+
+8th July 2019: Day12
+1. Participated in ama_session
+2. Participated in boom for basics in #beginners
+3. Was a part of virtual meetup with @Khush @Oudarjya Sen Sarma @Sourav @Soumya Nasipuri @Shivam Raisharma @Aisha Khatun
+
+9th July 2019: Day13
