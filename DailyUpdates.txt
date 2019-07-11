@@ -1,11 +1,37 @@
 27th June 2019: Day1
+1. Pledge taken! :blush:
+2. Had code walkthrough of video in the Lesson 7:grinning: learn about how to train models on different machine using pysyft.
+
 28th June 2019: Day2
+Today I had my first meet up with @harmanbhatia101 and @dubeankit07 in the Firebase roadshow Pune, have lot of fun. Spend entireday together!
+
 29th June 2019: Day3
+Had code walkthrough of video in the Lesson 7
+
 30th June 2019: Day4
+1. Today I had online meet up with @abhimanyutiwari3412 and @0107wy. Happy to connect with you.
+2. Join study group with @abhimanyutiwari3412@mukulkathpalia , @0107wy and many other.
+3. Continued with lesson 7 project
+
 1th July 2019: Day5
+-I have continued with lesson 7 final project code
+
 2th July 2019: Day6
+Completed Lesson 7 on Federated Learning
+Worked on Project on Federated Learning
+Here are the steps I followed,
+1. Created dummy dataset and labels,
+2. Created few virtual workers,
+3. Distributed dataset in different workers and trained each models on each workers
+4. Get the all model on secure worker and avg the gradient
+
 3th July 2019: Day7
+Started Lesson 8
+Completed 3 videos and write code for first small project
+
 4th July 2019: Day8
+- Completed lesson 8
+- working on final project of lesson 8
 
 5th July 2019: Day9
 -participated in *Boom with the Basics* in the beginner channel
@@ -27,3 +53,17 @@
 3. Was a part of virtual meetup with @Khush @Oudarjya Sen Sarma @Sourav @Soumya Nasipuri @Shivam Raisharma @Aisha Khatun
 
 9th July 2019: Day13
+completed final project of lesson5
+I have implemented differential privacy on MNIST dataset by dividing it in to *120* dataset and trained *119* model to make it as Teachers and predicted labels for *120th* dataset and at the and got following result,
+Data Independent Epsilon: 51.51292546497024
+Data Dependent Epsilon: 3.2143168878667040
+Here is the my notebook, https://github.com/bhadreshpsavani/ColabNotebooks/blob/master/DiffrentialPrivacyProject.ipynb
+
+10th July 2019: Day14
+1. Worked on final project of Federated Learning and solved earlier problem i found to train model using virtual machine using GPU
+2. Started working on Kaggle competitions of Blindness detection with  @Gogulaanand R @Shanmugapriya @Shahana @Ankit Dubey in
+
+11th July 2019:Day15
+Started Dataset analysis part of Blindness detection kaggle competition using pytorch.
+dataset was of 10gb size, i tried importing it using *kaggle api* in colab but ended up all resources used error
+Finally concluded that i can only work on this 10gb dataset on kaggle kernel only for free :rolling_on_the_floor_laughing:
