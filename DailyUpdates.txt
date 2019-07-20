@@ -67,3 +67,13 @@ Here is the my notebook, https://github.com/bhadreshpsavani/ColabNotebooks/blob/
 Started Dataset analysis part of Blindness detection kaggle competition using pytorch.
 dataset was of 10gb size, i tried importing it using *kaggle api* in colab but ended up all resources used error
 Finally concluded that i can only work on this 10gb dataset on kaggle kernel only for free :rolling_on_the_floor_laughing:
+
+12th July 2019:Day16
+
+13th July 2019:Day17
+14th July 2019:Day18
+15th July 2019:Day19
+16th July 2019:Day20
+17th July 2019:Day21
+18th July 2019:Day22
+19th July 2019:Day23
