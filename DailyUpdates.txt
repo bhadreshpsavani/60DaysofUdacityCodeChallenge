@@ -75,5 +75,27 @@ Finally concluded that i can only work on this 10gb dataset on kaggle kernel onl
 15th July 2019:Day19
 16th July 2019:Day20
 17th July 2019:Day21
+Gone through some articles and repository about pytorch
+https://www.elementai.com/news/2019/computer-enhance-please
+Participated in 
+https://bitly.com/2JHrmrD
+
 18th July 2019:Day22
+Participated in kaggle competition https://www.kaggle.com/c/recognizing-faces-in-the-wild
+
+Read an interesting article and concept about Siamese network
+https://becominghuman.ai/siamese-networks-algorithm-applications-and-pytorch-implementation-4ffa3304c18
+
 19th July 2019:Day23
+Worked on kaggle competition https://www.kaggle.com/c/recognizing-faces-in-the-wilds
+Watched videos tutorials about federated learning.
+
+20th July 2019:Day24
+Worked on kaggle competition https://www.kaggle.com/c/recognizing-faces-in-the-wild
+Continued with the videos of lesson 8
+
+21th July 2019:Day25
+Had virtual meetup with @Shahana @Gaurav @Ashwin Wadte
+Read few articles about Simese network and “Ensemble Methods in Machine Learning: What are They and Why Use Them?” by Evan Lutins https://link.medium.com/b99cQfs3uY
+
+22th July 2019:Day26
