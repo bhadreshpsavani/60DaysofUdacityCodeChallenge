@@ -99,3 +99,9 @@ Had virtual meetup with @Shahana @Gaurav @Ashwin Wadte
 Read few articles about Simese network and “Ensemble Methods in Machine Learning: What are They and Why Use Them?” by Evan Lutins https://link.medium.com/b99cQfs3uY
 
 22th July 2019:Day26
+I have worked on encryption and decryption method to secure gradient values while doing aggregation
+
+23rd July 2019:Day27
+Gone through Few Videos of lesson8
+Completed Lesson 8 and its final Project
+Learn that we cannot directly access weights of the CNN model using model.weight we need to access weights and bias of individual layers of CNN model
