@@ -105,3 +105,9 @@ I have worked on encryption and decryption method to secure gradient values whil
 Gone through Few Videos of lesson8
 Completed Lesson 8 and its final Project
 Learn that we cannot directly access weights of the CNN model using model.weight we need to access weights and bias of individual layers of CNN model
+
+24th July 2019:Day28
+Started lesson9
+Gone through first couple of videos, started working on encrypted dataset project
+Learn that we can do operations like addition, multiplication, substraction, comparison operations and index based operation like slicing and concatination and still the field data will not get affected
+Participated in Edureka Datascience Hackathon and i am going work on it's problem till 4th August:innocent: to learn something more.
