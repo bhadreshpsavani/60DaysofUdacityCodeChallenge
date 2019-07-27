@@ -111,3 +111,19 @@ Started lesson9
 Gone through first couple of videos, started working on encrypted dataset project
 Learn that we can do operations like addition, multiplication, substraction, comparison operations and index based operation like slicing and concatination and still the field data will not get affected
 Participated in Edureka Datascience Hackathon and i am going work on it's problem till 4th August:innocent: to learn something more.
+
+25th July 2019:Day29
+Continued with lesson9
+Worked on encrypted dataset project
+Worked on chatbotwithdeeplearning project
+Updated my 60daysofUdacity Github Repository of udacity
+
+26th July 2019:Day30
+Continued with lesson9 watched video4 of lesson 9, it took 39min to complete it, but learn many things
+Worked on encrypted dataset project, almost completed it
+Facing one issue in Encrypted dataset project
+
+27th July 2019:Day31
+completed secure and private ai course content
+completed encrypted dataset project on colab
+participated in hackathon in #sg_hackathon-orgnizrs and got around 88% validation accuracy but stumbling to get higher test accuracy
