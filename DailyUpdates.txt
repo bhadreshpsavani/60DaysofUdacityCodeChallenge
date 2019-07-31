@@ -127,3 +127,26 @@ Facing one issue in Encrypted dataset project
 completed secure and private ai course content
 completed encrypted dataset project on colab
 participated in hackathon in #sg_hackathon-orgnizrs and got around 88% validation accuracy but stumbling to get higher test accuracy
+
+28th July 2019:Day32
+1. working on IMDB movie review classification project in  hackathon in #sg_hackathon-orgnizrs its basically sentimental analysis problem,
+yesterday I have done it using keras, it was straightforward but today i have implemented the same problem using pytorch, it's bit tougher using pytorch:sweat_smile:
+2. Also working on car price prediction regression problem which also has unstructured data, I will have to work on data processing part and i am going to implement it using pytorch
+
+29th July 2019:Day33
+1. working on IMDB movie review classification project in  hackathon in #sg_hackathon-orgnizrs, 
+Got 88% accuracy
+2. Solved issues i was facing in predicting type of review for the testdata
+3. Appeared on the leaderboard in this competition and trying to increase accuracy of the prediction by applying data preprocessing
+4. Came across few awesome people and really strong competitors in the hackathon from our community, i would like to mention @Ronit @Abhishek Lalwani keep this spirit up:smile:
+
+30th July 2019:Day34
+1. Working on CarPricePrediction dataset as a part of Edureka Hackathon
+2. Performed Exploratory Data Analysis and converted categorical data columns in to numeric, converted registration and sold out date into duration of use
+3. Working on building pytorch model to predict car price as a linear regression problem
+
+31th July 2019:Day35
+1. I had one awesome webinar on Introduction to Embedded Systems by @Madalin Mamuleanu! :celebrate::clapping: with some of the awesome people of our community
+@Helena Barmer @Ahmed MAGDY EISSA @Oudarjya Sen Sarma @Bearbear @Shashi Gharti @Jess @Ingus Terbets @cibaca @Sushil Ghimire @Suparna S Nair @Joyce Obi @Stark @Sourav @Dmytro Martyniuk @Temitope Oladokun @Sarah Majors @erinSnPAI @Labiba @Vipul Aggarwal @Mateusz @susyjam @Aren Stark @Aisha Javed @Dammy @Shivam Raisharma in #sg_pytorch-robotics :v:
+2. Worked on carPricePrediction project, using sklearn done scaled the data and build pipeline for data preprocessing as a part of Edureka Hackathon
+3. I have hosted introduction to python workshop in my workplace to make introduce them in the field of deep learning
