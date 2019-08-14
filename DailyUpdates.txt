@@ -150,3 +150,43 @@ Got 88% accuracy
 @Helena Barmer @Ahmed MAGDY EISSA @Oudarjya Sen Sarma @Bearbear @Shashi Gharti @Jess @Ingus Terbets @cibaca @Sushil Ghimire @Suparna S Nair @Joyce Obi @Stark @Sourav @Dmytro Martyniuk @Temitope Oladokun @Sarah Majors @erinSnPAI @Labiba @Vipul Aggarwal @Mateusz @susyjam @Aren Stark @Aisha Javed @Dammy @Shivam Raisharma in #sg_pytorch-robotics :v:
 2. Worked on carPricePrediction project, using sklearn done scaled the data and build pipeline for data preprocessing as a part of Edureka Hackathon
 3. I have hosted introduction to python workshop in my workplace to make introduce them in the field of deep learning
+
+1th August 2019:Day36
+2nd August 2019:Day37
+3rd August 2019:Day38
+4th August 2019:Day39
+5th August 2019:Day40
+6th August 2019:Day41
+7nd August 2019:Day42
+8rd August 2019:Day43
+
+
+9th August 2019:Day44
+Working on ASL Sign Language gesture recognition project with @Munira Omar  @Shubhendu Mishra @Ruchika Khemka @Anju Mercian
+Read one article to implement hand segmentation using opnecv but Facing issues in accessing webcam using opencv to get videos
+
+10th August 2019:Day45
+Got second position in hackathon sentimento 2 organized in #sg_hackathon-orgnizrs 
+I thank all the amazing people of #sg_hackathon-orgnizrs for supporting and encouraging me
+Working on ASL Sign Language gesture recognition project, still trying to resolve issues in image processing part
+
+11th August 2019:Day46
+Working on ASL Sign Language gesture recognition project with @Munira Omar  @Shubhendu Mishra @Ruchika Khemka @Anju Mercian and @Aarthi Alagammai
+Today i have worked on background substraction using opencv on the videos to recognise hand gesture here is the photo after background
+Participated in the meetup in #sg_pytorch-robotics study group hosted by @Helena Barmer 
+I would like to encourage all the awesome members of this study group @Muhammad Naufil @Juan Carlos Kuri Pinto @Jess @cibaca @Mika @Ivy @Suparna S Nair @Stanislav Ladyzhenskiy @Mateusz @Nirupama Singh @Ebinbin Ajagun @Ayesha Manzur @Mahitej @Divya @Sourav @Nancy Al Aswad @Laura A @Sayed Maheen Basheer @Elena Kutanov @Dammy @Temitope Oladokun @Joy Poddar @Ateniola Oluwatobi Victor @Oudarjya Sen Sarma @Mr.Robot @Pooja Vinod @Helena Barmer
+
+
+12th August 2019:Day47
+Working on ASL Sign Language gesture recognition project with @Munira Omar  @Shubhendu Mishra @Ruchika Khemka @Anju Mercian and @Aarthi Alagammai
+Came to know that dynamic background substraction technique i used will not work in our case because it removes all the static things and hand will not always be in the movement so i am going to use first frame as a reference frame and remove it from all the other frames of video
+I have read these amazing medium article https://medium.com/@soffritti.pierfrancesco/handy-hands-detection-with-opencv-ac6e9fb3cec1
+Going throw the code of one hand extracting software which is written in c++ 
+https://github.com/PierfrancescoSoffritti/Handy
+I will try to implement it using python and optimise it according to our requirement
+
+13th August 2019:Day48
+Working on ASL Sign Language gesture recognition project
+Today i have worked on skin colour detection part of the hand extraction tool,
+I Will use one rectangle to detect hand sample from video
+I will use this sample to threshold image so that only colour range related to only hand will be visible
