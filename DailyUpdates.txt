@@ -190,3 +190,43 @@ Working on ASL Sign Language gesture recognition project
 Today i have worked on skin colour detection part of the hand extraction tool,
 I Will use one rectangle to detect hand sample from video
 I will use this sample to threshold image so that only colour range related to only hand will be visible
+
+14th August 2019:Day49
+1. Gone through the video of lesson 7-8 to revise the concepts
+2. Joined the Global Pytorch summer hackathon
+3. Updated gitbub repository about the dailyupdates
+4. Read article about deep reinforcement learning
+https://arxiv.org/abs/1908.04683
+
+15th August 2019:Day50
+Watched videos about differential privacy of lesson 5
+Read few articles about deep learning
+https://arxiv.org/abs/1908.05204
+
+16th August 2019:Day51
+Read about “Semantic Image Synthesis with Spatially-Adaptive Normalization”
+GauGAN, in a lighthearted nod to the post-Impressionist painter Paul Gauguin, turns doodles into stunning https://arxiv.org/abs/1903.07291
+Gone through the code of the same 
+Code: https://github.com/NVlabs/SPADE
+WebSite: https://nvlabs.github.io/SPADE
+
+17th August 2019:Day52
+Read more about the sequential model to translate language using pytorch
+Pytorch Implementation of Autoregressive Language Model
+https://github.com/lyeoni/pretraining-for-language-understanding
+
+18th August 2019:Day53
+Going through the project of Convolutional Neural Networks for Visual Recognition for visual recognition
+I think that this could help in my project of hand gesture recognition
+http://cs231n.github.io/neural-networks-3/#loss
+
+19th August 2019:Day54
+I have worked on Sign Language classification problem using Sign Language Classification project with @Munira Omar
+I have used CNN network to classify images of different alphabets and got pretty high accuracy on test dataset
+This is the part of my Showcase challenge project.
+Here is the link of my kernel
+https://www.kaggle.com/bhadreshsavani/mnistsignlanguagecnn
+I will going to try more realistic approach like video from webcam rather than using images
+I have submitted my update in the #sg_pune in the daily update activity
+
+20th August 2019:Day55
