@@ -230,3 +230,32 @@ I will going to try more realistic approach like video from webcam rather than u
 I have submitted my update in the #sg_pune in the daily update activity
 
 20th August 2019:Day55
+I have worked on Sign Language identification problem,
+While working on this problem we need to use kaggle dataset to colab so i have created one notebook on collab to get dataset from kaggle using kaggle api
+I have also wrote an article about the same on medium today here is the link
+“How to use Kaggle Dataset on Google Colab”  https://link.medium.com/LyvMEbPnjZ 
+
+21th August 2019:Day56
+Started learning about deep reinforcement learning
+Read one article on reinforcement learning
+“An introduction to Reinforcement Learning” by Thomas Simonini https://link.medium.com/5pFCbiJZkZ
+Started Deep Mind RL Course on youtube:
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+
+22th August 2019:Day57
+Working on writing blog on different methods of one hot encoding
+Read more about deep reinforcement learning 
+
+23th August 2019:Day58
+Read an article on dataset label generation on lego dataset of 10000 labels
+Started code walkthrough on my Selfdriving car nenodegree project of laneline detection which uses opencv library
+I want to learn openCV library
+Had discussion with members of our community to form up a team and participate in pytorch summer hackathon
+
+24th August 2019:Day59
+Started reading book on opencv from OReilly publication named Learint openCV
+Learning deep reinforcement learning from 
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+Team up with @Sabrina @Shahana @Joy Poddar @Akash Antony @Mariia Denysenko and @Sarah Majors  for Pytorch Summar Hackathon
+
+
