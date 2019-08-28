@@ -258,4 +258,7 @@ Learning deep reinforcement learning from
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 Team up with @Sabrina @Shahana @Joy Poddar @Akash Antony @Mariia Denysenko and @Sarah Majors  for Pytorch Summar Hackathon
 
-
+25th August 2019:Day60
+Started my computer vision journey with the below course on udacity
+https://classroom.udacity.com/courses/ud810
+Having discussion with my team regarding pytorch summer hackathon we want to apply federated learning and privacy preserving machine learning to solve real world problem using pytorch
