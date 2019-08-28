@@ -262,3 +262,5 @@ Team up with @Sabrina @Shahana @Joy Poddar @Akash Antony @Mariia Denysenko and @
 Started my computer vision journey with the below course on udacity
 https://classroom.udacity.com/courses/ud810
 Having discussion with my team regarding pytorch summer hackathon we want to apply federated learning and privacy preserving machine learning to solve real world problem using pytorch
+
+* The Missing Updates can be found on #60daysofUdacity channel of secureprivatAIScholar workspace
